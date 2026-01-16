@@ -28,7 +28,7 @@ def profile():
     projects = [
         {
             'title': 'BurpSuite Tutorials',
-            'description': 'دورة لتعلم اداة Burp Suite  من قناة داؤود يوسف على اليوتيوب',
+            'description': 'دورة لتعلم اداة Burp Suite  من قناة داؤود يوسف على اليوتيوب.',
             'image': '/static/images/BurpSuite_Comunity_Edition.svg.png',
             'url': 'https://www.youtube.com/playlist?list=PL4S940IsHJYV5gFmhh8vNqTbeUFqDktSh'
         },
@@ -97,6 +97,12 @@ def profile():
             'description': 'ذاكرت SQL Tutorial من موقع w3schools.com',
             'image': '/static/images/sql_tutorial.png',
             'url': 'https://www.w3schools.com/sql/'
+        },
+        {
+            'title': ' Command Line Basics',
+            'description': 'كورس اساسيات سطر الاوامر من قناة الزيرو على اليوتيوب، وتعلمت فيه اساسيات التعامل مع سطر الاوامر في لينكس و ويندوز.',
+            'image': '/static/images/linux-windows.jpg',
+            'url': 'https://www.youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT'
         },
         {
             'title': 'كورس اساسيات الشبكات من قناة IT Dose',
