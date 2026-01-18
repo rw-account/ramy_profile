@@ -1,4 +1,5 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
+import datetime
 
 app = Flask(__name__)
 
@@ -127,6 +128,23 @@ def profile():
         projects=projects,
         social_links=social_links
     )
+
+# هذه الجزئيه للاستغناء عن خاصيه Collaborator التي في Burp Suite
+def log_request(req):
+    with open("interactions.log", "a") as f:
+        f.write("\n" + "="*50 + "\n")
+        f.write(f"Time: {datetime.datetime.now()}\n")
+        f.write(f"IP: {req.remote_addr}\n")
+        f.write(f"Method: {req.method}\n")
+        f.write(f"URL: {req.url}\n")
+        f.write(f"Headers: {dict(req.headers)}\n")
+        f.write(f"Data: {req.get_data()}\n")
+
+@app.route("/", defaults={"path": ""}, methods=["GET","POST","PUT","DELETE","PATCH"])
+@app.route("/<path:path>", methods=["GET","POST","PUT","DELETE","PATCH"])
+def catch_all(path):
+    log_request(request)
+    return "OK", 200
 
 if __name__ == '__main__':
     app.run(debug=True)
