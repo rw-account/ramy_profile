@@ -14,3 +14,83 @@ Method: GET
 URL: http://127.0.0.1:5000/test123
 Headers: {'Host': '127.0.0.1:5000', 'User-Agent': 'curl/8.5.0', 'Accept': '*/*'}
 Data: b''
+
+==================================================
+Time: 2026-01-20 20:55:07.999245
+IP: 127.0.0.1
+Method: GET
+URL: http://127.0.0.1:5000/favicon.ico
+Headers: {'Host': '127.0.0.1:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Not(A:Brand";v="8", "Chromium";v="144", "Brave";v="144"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Gpc': '1', 'Accept-Language': 'en-US,en;q=0.9', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://127.0.0.1:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Cookie': 'session=eyJfcGVybWFuZW50Ijp0cnVlLCJ1c2VyX2lkIjoyfQ.aWgBOA.UFqYu1nPBaFGRP0ts8DWq_Gbvlc'}
+Data: b''
+
+==================================================
+Time: 2026-01-20 20:55:15.614425
+IP: 127.0.0.1
+Method: GET
+URL: http://127.0.0.1:5000/favicon.ico
+Headers: {'Host': '127.0.0.1:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Not(A:Brand";v="8", "Chromium";v="144", "Brave";v="144"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Gpc': '1', 'Accept-Language': 'en-US,en;q=0.9', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://127.0.0.1:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Cookie': 'session=eyJfcGVybWFuZW50Ijp0cnVlLCJ1c2VyX2lkIjoyfQ.aWgBOA.UFqYu1nPBaFGRP0ts8DWq_Gbvlc'}
+Data: b''
+
+==================================================
+Time: 2026-01-20 20:56:11.019467
+IP: 127.0.0.1
+Method: GET
+URL: http://127.0.0.1:5000/favicon.ico
+Headers: {'Host': '127.0.0.1:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Not(A:Brand";v="8", "Chromium";v="144", "Brave";v="144"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Gpc': '1', 'Accept-Language': 'en-US,en;q=0.9', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://127.0.0.1:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Cookie': 'session=eyJfcGVybWFuZW50Ijp0cnVlLCJ1c2VyX2lkIjoyfQ.aWgBOA.UFqYu1nPBaFGRP0ts8DWq_Gbvlc'}
+Data: b''
+
+==================================================
+Time: 2026-01-20 20:56:18.587607
+IP: 127.0.0.1
+Method: GET
+URL: http://127.0.0.1:5000/favicon.ico
+Headers: {'Host': '127.0.0.1:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Not(A:Brand";v="8", "Chromium";v="144", "Brave";v="144"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Gpc': '1', 'Accept-Language': 'en-US,en;q=0.9', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://127.0.0.1:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Cookie': 'session=eyJfcGVybWFuZW50Ijp0cnVlLCJ1c2VyX2lkIjoyfQ.aWgBOA.UFqYu1nPBaFGRP0ts8DWq_Gbvlc'}
+Data: b''
+
+==================================================
+Time: 2026-01-20 20:57:26.343070
+IP: 127.0.0.1
+Method: GET
+URL: http://127.0.0.1:5000/.well-known/appspecific/com.chrome.devtools.json
+Headers: {'Host': '127.0.0.1:5000', 'Connection': 'keep-alive', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'empty', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-US,en;q=0.9', 'Cookie': 'session=eyJfcGVybWFuZW50Ijp0cnVlLCJ1c2VyX2lkIjoyfQ.aWgBOA.UFqYu1nPBaFGRP0ts8DWq_Gbvlc'}
+Data: b''
+
+==================================================
+Time: 2026-01-20 20:58:32.572156
+IP: 127.0.0.1
+Method: GET
+URL: http://127.0.0.1:5000/.well-known/appspecific/com.chrome.devtools.json
+Headers: {'Host': '127.0.0.1:5000', 'Connection': 'keep-alive', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'empty', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-US,en;q=0.9', 'Cookie': 'session=eyJfcGVybWFuZW50Ijp0cnVlLCJ1c2VyX2lkIjoyfQ.aWgBOA.UFqYu1nPBaFGRP0ts8DWq_Gbvlc'}
+Data: b''
+
+==================================================
+Time: 2026-01-20 20:58:36.703971
+IP: 127.0.0.1
+Method: GET
+URL: http://127.0.0.1:5000/favicon.ico
+Headers: {'Host': '127.0.0.1:5000', 'Connection': 'keep-alive', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Not(A:Brand";v="8", "Chromium";v="144", "Brave";v="144"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Gpc': '1', 'Accept-Language': 'en-US,en;q=0.9', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://127.0.0.1:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Cookie': 'session=eyJfcGVybWFuZW50Ijp0cnVlLCJ1c2VyX2lkIjoyfQ.aWgBOA.UFqYu1nPBaFGRP0ts8DWq_Gbvlc'}
+Data: b''
+
+==================================================
+Time: 2026-01-20 20:58:44.553605
+IP: 127.0.0.1
+Method: GET
+URL: http://127.0.0.1:5000/favicon.ico
+Headers: {'Host': '127.0.0.1:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Not(A:Brand";v="8", "Chromium";v="144", "Brave";v="144"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Gpc': '1', 'Accept-Language': 'en-US,en;q=0.9', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://127.0.0.1:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Cookie': 'session=eyJfcGVybWFuZW50Ijp0cnVlLCJ1c2VyX2lkIjoyfQ.aWgBOA.UFqYu1nPBaFGRP0ts8DWq_Gbvlc'}
+Data: b''
+
+==================================================
+Time: 2026-01-20 20:58:51.059230
+IP: 127.0.0.1
+Method: GET
+URL: http://127.0.0.1:5000/favicon.ico
+Headers: {'Host': '127.0.0.1:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Not(A:Brand";v="8", "Chromium";v="144", "Brave";v="144"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Gpc': '1', 'Accept-Language': 'en-US,en;q=0.9', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://127.0.0.1:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Cookie': 'session=eyJfcGVybWFuZW50Ijp0cnVlLCJ1c2VyX2lkIjoyfQ.aWgBOA.UFqYu1nPBaFGRP0ts8DWq_Gbvlc'}
+Data: b''
+
+==================================================
+Time: 2026-01-23 02:32:16.435773
+IP: 127.0.0.1
+Method: GET
+URL: http://127.0.0.1:5000/favicon.ico
+Headers: {'Host': '127.0.0.1:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Not(A:Brand";v="8", "Chromium";v="144", "Brave";v="144"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8', 'Sec-Gpc': '1', 'Accept-Language': 'en-US,en;q=0.9', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'no-cors', 'Sec-Fetch-Dest': 'image', 'Referer': 'http://127.0.0.1:5000/', 'Accept-Encoding': 'gzip, deflate, br, zstd'}
+Data: b''

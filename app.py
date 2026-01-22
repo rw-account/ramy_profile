@@ -28,7 +28,13 @@ def profile():
     # Projects data
     projects = [
         {
-            'title': 'BurpSuite Tutorials',
+            'title': 'React Tutorial',
+            'description': 'قمت خلال هذه الـ Tutorial بتعلم اساسيات React وقمت ببناء مشروع عملي اثناء التعلم وهو لعبه Tic-Tac-Toe وهذه الـ Tutorial من موقع React الرسمي.',
+            'image': '/static/images/react_tutorial.png',
+            'url': 'https://react.dev/learn/tutorial-tic-tac-toe'
+        },
+        {
+            'title': 'BurpSuite Tutorial',
             'description': 'دورة لتعلم اداة Burp Suite  من قناة داؤود يوسف على اليوتيوب.',
             'image': '/static/images/BurpSuite_Comunity_Edition.svg.png',
             'url': 'https://www.youtube.com/playlist?list=PL4S940IsHJYV5gFmhh8vNqTbeUFqDktSh'
