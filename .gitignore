@@ -28,3 +28,6 @@ next-env.d.ts
 
 .venv
 test.html
+test2.html
+test.py
+/automations
